@@ -79,8 +79,8 @@
 		<slot></slot>
 		<footer>
 			<img class="fl" src="/assets/images/cash-stack.png" alt="Money Saved From Our Services"/>
-			<p>Now, be careful, because these funds are held for only a brief period of time, after which the agency responsible for them may be permitted to seize them through a process called "escheatment."</p>
-			<p>We think private citizens losing their funds to faceless government agencies (a system rooted in feudal 16th century England) is completely unfair and we are determined to prevent this from happening to anyone, especially you.</p>
+			<p>These funds are held for only a brief period of time, after that time elapses the agency responsible for them may be permitted to seize them permanently through a process called "escheatment."</p>
+			<p>We believe it's wrong for private citizens to lose their funds to faceless government agencies (a system rooted in feudal 16th century England). We are determined to prevent this from happening to any person, including you.</p>
 		<div class="clear"> </div>
 		</footer>
 		<hr>
